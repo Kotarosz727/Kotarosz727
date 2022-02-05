@@ -1,6 +1,6 @@
-[![Kotaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kotarosz727&count_private=true&theme=dark&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kotaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kotarosz727&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kotarosz727&exclude_repo=my_python,Dawn&layout=compact&theme=dark&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kotarosz727&exclude_repo=my_python,Dawn&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
