@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kotarosz727
-- 👀 I’m interested in React
-- 🌱 I’m currently learning React-native !!!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kotarosz727)](https://github.com/anuraghazra/github-readme-stats)
 
 - Thenk you !!!
 
